@@ -157,4 +157,4 @@ while not game_over:
             turn = turn % 2
 
             if game_over:
-                pygame.time.wait(4000)
+                pygame.time.wait(10000)
